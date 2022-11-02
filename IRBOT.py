@@ -289,7 +289,7 @@ def action():
     print
     print
     '[\xe2\x9c\x93] Total OK/CP : ' + str(len(oks)) + '/' + str(len(cpb))
-    print '[\xe2\x9c\x93] CP File Has Been Saved : Progrees start faild!Try in onther Device'
+    print '[\xe2\x9c\x93] Progrees start faild! : Try in onther Device'
     raw_input('\n[Press Enter To Go Back]')
     os.system('python2 Omar-bd-6digt.py')
  
